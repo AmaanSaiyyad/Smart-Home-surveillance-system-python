@@ -1,0 +1,17 @@
+# Telegram Bot API for Python
+pyTelegramBotAPI==4.14.0
+
+# OpenCV for camera access, image processing, and video recording
+opencv-python==4.9.0.80
+
+# Audio playback (alarm + TTS output)
+pygame==2.5.2
+
+# Text-to-Speech for Audio Pretext messages
+gTTS==2.5.1
+
+# Twilio API for SMS alerts
+twilio==9.0.4
+
+# Numerical operations (image masking & motion detection)
+numpy==1.26.4
